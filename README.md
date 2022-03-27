@@ -16,14 +16,19 @@ Google Haritalar üzerinden konum - belirlenen bir lokasyona navigasyon oluştur
 - Navigasyonun başlatılması ve yönergelerin kontrol edilip navigasyondan çıkılması.
 
 ## Hata Taslağının Oluşturulması
-Bu raporda Udemy üzerinden aldığım eğitim sonucunda https://yazilimtestegitimi.com/webtestalistirmasi/ sayfası üzerinde bulduğum hataları Excel dosyasında raporladım. 
+Bu raporda Udemy üzerinden aldığım eğitim sonucunda https://yazilimtestegitimi.com/webtestalistirmasi/ sayfası üzerinde bulduğum hataları Excel dosyasında raporladım.
 - Hata başlığı
 - Hata önceliği (Kritik, yüksek, orta, düşük, önemsiz)
 - Özet açıklama
 - Hata adımlarını 
 - Gerçekleşen asıl sonucu
 - Beklenen sonucu
-- Hatanın ekran görüntüsünü ekledim.
+- Hatanın ekran görüntüsünü eklendi..
 
 ## Statik Test (Gözden Geçirme)
 Bu projede alışveriş sırasında indirim sağlayan bir uygulama için oluşturulmuş olan iş gereksinimlerine göre yazılmış test senaryolarını gözden geçirip geri bildirimde bulundum. <br> <br> Test senaryolarında gözden kaçmış veya yetersiz açıklama yapılmış adımların, test edilmemiş senaryoların tespitini sağlayıp geri bildirimde bulundum.
+
+## Test Kontrol Listesinin Oluşturulması
+Bu projede iş gereksinimlerine göre test kontrol listeleri ve test senaryoları oluşturdum. Excel dosyasında raporladım.
+- İş gereksinimlerin her bir adımı bir kontrol listesine eklendi. Daha fazla senaryoların test edilmesi için eklemeler yapıldı.
+- İş gereksinimlerine göre detaylı test senaryoları oluşturuldu.
