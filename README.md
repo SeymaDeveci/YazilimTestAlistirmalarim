@@ -24,3 +24,6 @@ Bu raporda Udemy üzerinden aldığım eğitim sonucunda https://yazilimtestegit
 - Gerçekleşen asıl sonucu
 - Beklenen sonucu
 - Hatanın ekran görüntüsünü ekledim.
+
+## Statik Test (Gözden Geçirme)
+Bu projede alışveriş sırasında indirim sağlayan bir uygulama için oluşturulmuş olan iş gereksinimlerine göre yazılmış test senaryolarını gözden geçirip geri bildirimde bulundum. <br> <br> Test senaryolarında gözden kaçmış veya yetersiz açıklama yapılmış adımların, test edilmemiş senaryoların tespitini sağlayıp geri bildirimde bulundum.
