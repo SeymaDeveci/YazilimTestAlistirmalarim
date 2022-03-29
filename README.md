@@ -16,7 +16,7 @@ Google Haritalar üzerinden konum - belirlenen bir lokasyona navigasyon oluştur
 - Navigasyonun başlatılması ve yönergelerin kontrol edilip navigasyondan çıkılması.
 
 ## Hata Taslağının Oluşturulması
-Bu raporda Udemy üzerinden aldığım eğitim sonucunda https://yazilimtestegitimi.com/webtestalistirmasi/ sayfası üzerinde bulduğum hataları Excel dosyasında raporladım.
+Bu raporda Udemy üzerinden aldığım eğitim sonucunda [yazilimtestegitimi](https://yazilimtestegitimi.com/webtestalistirmasi/) sayfası üzerinde bulduğum hataları Excel dosyasında raporladım.
 - Hata başlığı
 - Hata önceliği (Kritik, yüksek, orta, düşük, önemsiz)
 - Özet açıklama
