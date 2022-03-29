@@ -2,7 +2,7 @@
  Test alanında eğitim aldığım platformlardaki çalışmaları ve kendi yaptığım çalışmalarımı burada paylaşıyorum.
 
 ## Navigasyon Yazılım Test Senaryosu
-İşe alım sırasında gönderilen bir projeyi yaptığım çalışmadır. Bu proje sayesinde yazılım test senaryosunun oluşturulma adımlarını deneyimledim. Projede test case yazımı için kullandığım araçlar Excel'dir. 
+İşe alım sırasında gönderilen bir projeyi yaptığım çalışmadır. Bu proje sayesinde yazılım test senaryosunun oluşturulma adımlarını deneyimledim. Projede test case yazımı için kullandığım araç Excel'dir. 
 
 #### **Projede amaç :**
 Google Haritalar üzerinden konum - belirlenen bir lokasyona navigasyon oluşturulabilmesini sağlayan test senaryosunun oluşturulmasıdır.
